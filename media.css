@@ -1,0 +1,132 @@
+@media only screen and (max-width: 1000px) {
+    .navbar{
+        width: 100%;
+    }
+
+    .row{
+        flex-direction: column;
+        margin: 50px 0;
+        align-items: baseline;
+        text-align: center;
+      }
+      .col-2{
+        /* flex-basis: 100%; */
+        margin-bottom: 20px;
+      }
+      .col-2 .control{
+        width: 90%;
+        padding-top: 50px;
+        margin: auto;
+      }
+      
+      .col-1 h2{
+        font-size: 30px;
+      }
+      
+      .col-1 p{
+        font-size: 15px;
+      }
+      
+      .col-1 button{
+        font-size: 15px;
+      }
+
+      .main-content1{
+        flex-direction: column-reverse;
+        margin: 50px 10px;
+        align-items: center;
+      }
+      
+      .first-content{
+        text-align: center;
+        margin: 30px;
+        flex-basis: 50%;
+      }
+      
+      .first-content p{
+        font-size: 18px;
+        margin: 0px 15px 0px 15px;
+      }
+      
+      .first-content h2{
+        font-size: 30px;
+      }
+
+      
+      .first-content img{
+        width: 100px;
+      }
+
+      .main-content2{
+        flex-direction: column;
+        margin: 50px 10px;
+        align-items: center;
+      }
+      
+      .second-content{
+        text-align: center;
+        margin: 30px;
+        flex-basis: 50%;
+      }
+      
+      .second-content p{
+        font-size: 18px;
+        margin: 0px 15px 0px 15px;
+      }
+      
+      .second-content h2{
+        font-size: 30px;
+      }
+      
+      .second-content img{
+        width: 100px;
+      
+      }
+
+      .main-content3{
+        flex-direction: column-reverse;
+        margin: 50px 10px;
+        align-items: center;
+      }
+      
+      .third-content{
+        text-align: center;
+        margin: 30px;
+        flex-basis: 50%;
+      }
+      
+      .third-content p{
+        font-size: 18px;
+        margin: 0px 15px 0px 15px;
+      }
+      
+      .third-content h2{
+        font-size: 30px;
+      }
+
+      
+      .first-content img{
+        width: 100px;
+      }
+
+      .bottom-content{
+        width: 90%;
+        margin: auto;
+      }
+
+      footer{
+        display: flex;
+        flex-direction: column-reverse;
+
+      }
+      .footer-design{
+        flex-direction: column;
+      }
+      .columnlinks{
+        display: flex;
+        flex-direction: column;
+      }
+
+
+
+}
