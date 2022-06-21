@@ -256,7 +256,7 @@ button:active {
 }
 
 .bottom-content {
-  display: flex;
+  display:flex;
   flex-direction: column;
   /* border: 1px solid rgba(0, 0, 0, 0.25); */
   padding: 50px 30px;
@@ -265,9 +265,9 @@ button:active {
   /* width: 80%; */
   /* margin: 10rem 15rem 0rem 15rem; */
   margin: 100px 200px 0px 200px;
-  z-index: 8;
+  /* position: absolute;
+  z-index: 15; */
 }
-
 .bottom-content h2 {
   text-align: center;
   font-size: 30px;
