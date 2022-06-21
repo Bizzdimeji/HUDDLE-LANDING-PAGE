@@ -336,10 +336,10 @@ footer .footer-img img{
 .columnlinks{
   position: relative;
   /* width: 30%; */
-  width: auto
+  width: auto;
 }
 span{
-  width 50px;
+  width: 50px;
   margin-right: 10px;
 }
 
